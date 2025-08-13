@@ -1,7 +1,7 @@
 # Solomon Were Oindo
 
 **Data Manager | Data Scientist | Analytics Leader**  
-[Portfolio Website](https://solomonwereoindo.github.io) | [LinkedIn](#) | [Email](oindosolo705@gmail.com)
+[Portfolio Website]([https://github.com/solowere/Were])| [LinkedIn]([https://www.linkedin.com/in/solomonwere]) | [Email]([oindosolo705@gmail.com])
 
 
 Experienced Data Science and Analytics professional with 5+ years in **data operations, AI-driven solutions, and analytics leadership**.  
