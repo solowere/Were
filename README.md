@@ -69,4 +69,4 @@ Kenya | *April 2018 – August 2019*
 
 ---
 
-*This portfolio is built to showcase my professional journey, highlight my technical expertise, and share data-driven projects that demonstrate my ability to transform data into impactful solutions.*
+
