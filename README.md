@@ -5,17 +5,17 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 I am an experienced **Data Science and Analytics professional** with over **5 years** of proven expertise in **data operations, AI-driven solutions, and analytics leadership**.  
 I excel at turning **raw data into actionable insights** using **machine learning, business intelligence tools, and automation** — while ensuring compliance with **Kenya’s Data Protection Act (2019)** and **GDPR**.
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### **Kongoni Limited** — *Data Analyst / Junior Data Scientist*  
-📍 Nairobi, Kenya | *March 2022 – Present*  
+ Nairobi, Kenya | *March 2022 – Present*  
 - Led **data governance** improvements and implemented **access controls** to enhance data integrity.  
 - Designed & deployed **machine learning models** using **PyCaret** for forecasting and predictive analytics.  
 - Developed **enterprise dashboards** with **Power BI** and **Tableau** to support executive decisions.  
@@ -23,26 +23,26 @@ I excel at turning **raw data into actionable insights** using **machine learnin
 - Trained teams on **dashboard use**, **data interpretation**, and **data privacy policies**.
 
 ### **KEPHIS (Analytical Chemistry Lab)** — *Data Analyst*  
-📍 Nairobi, Kenya | *August 2019 – March 2022*  
+Nairobi, Kenya | *August 2019 – March 2022*  
 - Built secure, compliant databases for **plant health** & **pesticide residue** data tracking.  
 - Optimized **SQL queries**, reducing data retrieval time by **45%**.  
 - Generated **regulatory reports** for KEBS, EU Codex, and other bodies.
 
 ### **Ministry of Labour & Social Protection** — *Research Assistant*  
-📍 Kenya | *April 2018 – August 2019*  
+Kenya | *April 2018 – August 2019*  
 - Supervised **field data collection** using **SurveyCTO** and **ODK**.  
 - Achieved **150% daily targets** through effective logistics and collaboration.
 
 ---
 
-## 🎓 Education
+## Education
 
 - **MSc. Data Science** *(Ongoing)* — Co-Operative University of Kenya  
 - **BSc. Statistics** — University of Kabianga  
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 - MySQL for Data Science – Knowasap Training *(2020)*  
 - Python for Data Analysis & Visualization – Udemy *(2020)*  
@@ -63,10 +63,10 @@ I excel at turning **raw data into actionable insights** using **machine learnin
 
 ---
 
-## 🌍 Professional Affiliations
+## Professional Affiliations
 
 - **Member**, Kenya National Statistical Society (KNSS)  
 
 ---
 
-📌 *This portfolio is built to showcase my professional journey, highlight my technical expertise, and share data-driven projects that demonstrate my ability to transform data into impactful solutions.*
+*This portfolio is built to showcase my professional journey, highlight my technical expertise, and share data-driven projects that demonstrate my ability to transform data into impactful solutions.*
