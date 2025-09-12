@@ -28,19 +28,19 @@ Currently pursuing advanced mastery in data science at the Co-operative Universi
   </tr>
   <tr>
     <td align="center">
-      <img src="images/bigdata-r.png" width="200"/><br/>
+      <img src="/bigdata-r.png" width="200"/><br/>
       Comprehensive exploration of R for handling large datasets, memory-efficient processing, parallel computation, and integration with enterprise databases.<br/>
       <b>Tech Stack:</b> R, SQL, Spark, AWS, Azure<br/>
       <a href="https://github.com/solowere/Big-Data-and-Database-in-R">View Repository</a>
     </td>
     <td align="center">
-      <img src="images/etl-python.png" width="200"/><br/>
+      <img src="/etl-python.png" width="200"/><br/>
       Enterprise-grade ETL pipeline for extraction, transformation, and loading of data into data warehouses.<br/>
       <b>Tech Stack:</b> Python, Pandas, SQLAlchemy, SQL Server<br/>
       <a href="https://github.com/solowere/ETL-Python">View Repository</a>
     </td>
     <td align="center">
-      <img src="images/sdg-powerbi.png" width="200"/><br/>
+      <img src="/sdg-powerbi.png" width="200"/><br/>
       Power BI dashboards visualizing health indicators for Nairobi, mapped to SDGs.<br/>
       <b>Tech Stack:</b> Power BI, SQL, DAX, Excel<br/>
       <a href="https://github.com/solowere/SDG-Power-BI">View Repository</a>
